@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @liqingwen98
 - 👀 I’m interested in badminton and tennis
-- 🌱 I’m currently learning ASR and nanopore sequencing signal decoding
+- 🌱 I’m currently learning ASR and nanopore sequencing
 - 💞️ I’m looking to collaborate on deep learning
 - 📫 How to reach me li.qing.wen@foxmail.com
 
