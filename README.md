@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on deep learning
 - 📫 How to reach me li.qing.wen@foxmail.com
 
-![20250313-102822](https://github.com/user-attachments/assets/d8798ea4-d1e1-40d9-ac0b-b55d23adea51)
+![20250313-103438](https://github.com/user-attachments/assets/7c5da780-defc-4536-a24f-09e533b74e5f)
+
 
 
 <!---
